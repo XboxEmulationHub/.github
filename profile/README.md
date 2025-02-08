@@ -1,17 +1,17 @@
-Emulation Collective
+## Emulation Collective
 Welcome to the Emulation Collective GitHub organization!
 
-Introduction
+## Introduction
 This organization serves as a place for UWP Developers in the community to place their projects.
 
-Installation
+## Installation
 To get started with our projects, please refer to the specific repository for detailed installation instructions.
 
-Usage
+## Usage
 For detailed usage instructions, please refer to the documentation in the specific repository you are interested in.
 
-Contributing
+## Contributing
 We welcome contributions from everyone. Please read our contributing guidelines before submitting a pull request.
 
-Community
+## Community
 Join our Discord community: [Emulation Collective](https://discord.gg/WCmxvvxHqu)
