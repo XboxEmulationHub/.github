@@ -1,5 +1,5 @@
-## Emulation Collective
-Welcome to the Emulation Collective GitHub organization!
+## Xbox Emulation Hub
+Welcome to the Xbox Emulation Hub GitHub organization!
 
 ## Introduction
 This organization serves as a place for UWP Developers in the community to place their projects.
@@ -14,4 +14,4 @@ For detailed usage instructions, please refer to the documentation in the specif
 We welcome contributions from everyone. Please read our contributing guidelines before submitting a pull request.
 
 ## Community
-Join our Discord community: [Emulation Collective](https://discord.gg/WCmxvvxHqu)
+Join our Discord community: [Xbox Emulation Hub](https://discord.gg/WCmxvvxHqu)
